@@ -1,0 +1,8 @@
+forntend Framework - Next.js v14
+backend Framework - Next.js v14 and NodeJS(ExpressJS)
+Language - Javascript
+Auth - NextAuth.js
+Database - postgreSQL
+ORM - prisma
+Hosting - -------
+Styling - TailwindCSS, shadcn-ui
